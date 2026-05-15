@@ -31,12 +31,6 @@
 
 <br />
 
-<p align="center">
-  <img src=".github/assets/preview.png" alt="TOONHUB UI Preview" width="90%" style="border-radius: 12px;" />
-</p>
-
-<br />
-
 ---
 
 <br />
@@ -241,10 +235,10 @@ Each carousel item carries a **background** and **panel** color pair. The viewpo
 
 | # | Figurine | Background | Panel | Preview |
 |:-:|:---|:---|:---|:---|
-| 1 | Orange | `#F4845F` | `#F79B7F` | ![#F4845F](https://via.placeholder.com/12/F4845F/F4845F.png) ![#F79B7F](https://via.placeholder.com/12/F79B7F/F79B7F.png) |
-| 2 | Green | `#6BBF7A` | `#85CC92` | ![#6BBF7A](https://via.placeholder.com/12/6BBF7A/6BBF7A.png) ![#85CC92](https://via.placeholder.com/12/85CC92/85CC92.png) |
-| 3 | Pink | `#E882B4` | `#ED9DC4` | ![#E882B4](https://via.placeholder.com/12/E882B4/E882B4.png) ![#ED9DC4](https://via.placeholder.com/12/ED9DC4/ED9DC4.png) |
-| 4 | Blue | `#6EB5FF` | `#8DC4FF` | ![#6EB5FF](https://via.placeholder.com/12/6EB5FF/6EB5FF.png) ![#8DC4FF](https://via.placeholder.com/12/8DC4FF/8DC4FF.png) |
+| 1 | Orange | `#F4845F` | `#F79B7F` | 
+| 2 | Green | `#6BBF7A` | `#85CC92` | 
+| 3 | Pink | `#E882B4` | `#ED9DC4` | 
+| 4 | Blue | `#6EB5FF` | `#8DC4FF` |
 
 ### Typography Scale
 
