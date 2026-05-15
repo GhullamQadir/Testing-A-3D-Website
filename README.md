@@ -446,16 +446,6 @@ git push origin feat/your-feature
 
 ---
 
-<br />
-
-## 📄 License
-
-Released under the [MIT License](LICENSE). Use it, fork it, ship it.
-
-<br />
-
----
-
 <p align="center">
   <sub>
     Crafted with precision for the Hackathon &nbsp;·&nbsp; Powered by
