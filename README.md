@@ -3,10 +3,6 @@
 <!-- ────────────────────────────────────────────────────────────────────── -->
 
 <p align="center">
-  <img src=".github/assets/banner.png" alt="TOONHUB — Character Figurine Carousel" width="100%" />
-</p>
-
-<p align="center">
   <a href="#-quick-start"><img src="https://img.shields.io/badge/-Get_Started-F4845F?style=for-the-badge&logoColor=white" alt="Get Started" /></a>
   &nbsp;
   <a href="#-live-demo"><img src="https://img.shields.io/badge/-Live_Demo-6BBF7A?style=for-the-badge&logoColor=white" alt="Live Demo" /></a>
@@ -24,8 +20,6 @@
 </p>
 
 <br />
-
-<h1 align="center">TOONHUB</h1>
 
 <p align="center">
   <strong>A cinematic, full-viewport character-figurine carousel<br />built with React 19, TypeScript, and zero animation libraries.</strong>
